@@ -1,0 +1,3 @@
+﻿  Lab1(7b).cpp
+F:\YandexDisk\YandexDisk\Documents\Labs\C++\2 SEM\lab1(7b)\Lab1(7b)\Lab1(7b)\Lab1(7b).cpp(26,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Lab1(7b).vcxproj -> F:\YandexDisk\YandexDisk\Documents\Labs\C++\2 SEM\lab1(7b)\Lab1(7b)\Debug\Lab1(7b).exe

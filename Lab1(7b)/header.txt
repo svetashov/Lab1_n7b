@@ -1,0 +1,10 @@
+/* Интерфейс модуля с функциями для меню. */
+#pragma once
+#include "file_utils.h"
+#include "list_utils.h"
+
+namespace fl
+{
+	// Главное меню.
+	void menu();
+}
